@@ -1,0 +1,35 @@
+.searchForm__search {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.searchForm__input {
+  width: 100%;
+  padding: 5px;
+  border: 1px dashed #eee;
+}
+
+.searchForm__button {
+  background-color: aqua;
+  border: none;
+  border-radius: 5px;
+  padding: 0 5px 0 5px;
+  margin-left: 10px;
+  position: relative;
+}
+
+.searchForm__button:hover {
+  background-color: aquamarine;
+}
+
+.searchForm__button:active {
+  top: 1px;
+}
+
+.searchForm__button_type_reset {
+  background-color: red;
+}
+
+.searchForm__button_type_reset:hover {
+  background-color: rgb(219, 43, 196);
+}

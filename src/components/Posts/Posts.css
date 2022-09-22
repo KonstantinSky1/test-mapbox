@@ -1,0 +1,90 @@
+.posts {
+  padding: 50px 10px 10px 10px;
+}
+
+.posts__container {
+  margin: 0 auto;
+  max-width: 70%;
+  width: 70%;
+}
+
+.posts__content {
+  border: 1px solid #eee;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, .5);
+}
+
+.posts__list {
+  border-collapse: collapse;
+  text-align: left;
+  vertical-align: top;
+  width: 100%;
+}
+
+.posts__list-header-number {
+  text-align: end;
+}
+
+.posts__list td {
+  vertical-align: top;
+  padding: 7px 5px;
+  color: #669;
+}
+
+.posts__list th {
+  border-bottom: 2px solid #6678b1;
+  padding: 0 5px 5px 5px;
+  color: #039;
+}
+
+.number {
+  width: 4%;
+}
+
+.title {
+  width: 30%;
+}
+
+.description {
+  width: 66%;
+}
+
+.toMapboxBtn {
+  margin: 30px 0 0 0;
+  background-color: aqua;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 5px 5px 5px;
+  margin-left: 10px;
+  position: relative;
+}
+
+.toMapboxBtn:hover {
+  background-color: aquamarine;
+}
+
+.toMapboxBtn:active {
+  top: 1px;
+}
+
+@media screen and (max-width: 990px) {
+  .posts__container {
+    max-width: 80%;
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .posts__container {
+    max-width: 90%;
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .posts__container {
+    max-width: 100%;
+    width: 100%;
+  }
+}
