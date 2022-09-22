@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test-mapbox/static/css/main.2e417c72.css",
+    "main.js": "/test-mapbox/static/js/main.d62f37a2.js",
+    "static/js/483.a25515c7.chunk.js": "/test-mapbox/static/js/483.a25515c7.chunk.js",
+    "static/media/closeButton.svg": "/test-mapbox/static/media/closeButton.4096f55d2ae3c9792875.svg",
+    "index.html": "/test-mapbox/index.html",
+    "main.2e417c72.css.map": "/test-mapbox/static/css/main.2e417c72.css.map",
+    "main.d62f37a2.js.map": "/test-mapbox/static/js/main.d62f37a2.js.map",
+    "483.a25515c7.chunk.js.map": "/test-mapbox/static/js/483.a25515c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e417c72.css",
+    "static/js/main.d62f37a2.js"
+  ]
+}
